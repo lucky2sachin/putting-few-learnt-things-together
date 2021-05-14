@@ -1,0 +1,57 @@
+body{
+    font-family: 'Lato';
+    font-size: 18px;
+}
+h1, section{
+    width: 620px;
+    margin: 0 auto;
+    padding: 40px 50px;
+}
+h1{
+    background-color: #2e354f;
+    color: #fff;
+    font-size: 36px;
+}
+
+h2{
+    margin-top: 0;
+    color: #ef5839;
+    font-size: 24px;
+}
+.section-start p{
+    color: #2e354f;
+    margin-bottom: 0;
+}
+.section-end{
+    background-color: #2e354f;
+    color: white;
+}
+
+a{
+    color: #ef5839;
+}
+
+.btn{
+    padding: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 8px;
+}
+
+.btn-contact{
+    background-color: #ef5839;
+    color: #fff;
+}
+.btn-contact:hover{
+    background-color: purple;
+    color: #fff;
+}
+.btn-info{
+    background-color: #fff;
+    color: #2e354f;
+}
+.btn-info:hover{
+    background-color: purple;
+    color: #fff;
+}
